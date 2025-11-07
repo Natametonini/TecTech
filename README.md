@@ -20,6 +20,12 @@ Estamos na fase inicial, já doram definindos a ideia e o planejamento do sistem
 - Implementação do código base no Arduino e na garra.
 - Testes iniciais de reconhecimento e movimentação.
 
+## Modelo
+O modelo de detecção de objetos usados no projeto foi o Tensorflow / COCO-SSD.  - https://github.com/tensorflow/tfjs-models/tree/master/coco-ssd
+
+## Projeto Original
+O nosso projeto de detecção se trata de uma fork, modificada em alguns aspectos de outro projeto, denominado RecyclerPro, de autoria de shehryarusman. - https://github.com/shehryarusman/RecyclerPro
+
 ## Contato
 Para dúvidas ou sugestões, entre em contato: [jjbiel158@gamil.com].
 
